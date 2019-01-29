@@ -1,4 +1,3 @@
-
 class CrewMember {
   constructor(position, currentShip){
     this.position = position;
